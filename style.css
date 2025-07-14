@@ -1,0 +1,52 @@
+
+body{
+    background-color: rgb(254, 245, 200);
+
+}
+.barnav{
+    background-color: rgb(218, 143, 224);
+    display: inline;
+    margin: auto;
+    text-align: center;
+}
+.barnav img{
+    display: inline-block;
+    margin:2%;
+}
+#list{
+    display: inline-block;
+    margin-left: 30px;
+}
+#list li{
+    display: inline;
+    margin-left: 20px;
+}
+#list a{
+    text-decoration: none;
+    transition: all 0.2s;
+    color: white;
+}
+#list a:hover{
+    font-size: large;
+    color: brown;
+
+}
+h1{
+     font-family: "DM Sans", sans-serif;
+     display: inline;
+}
+#phApropos{
+    background-color:rgb(93, 228, 183);
+     font-family: "Winky Rough", sans-serif;
+     font-weight: 100;
+     font-size: 1.5rem;
+     padding: 5%;
+}
+.traveaux{
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+.traveaux iframe{
+    margin:4%;
+}
